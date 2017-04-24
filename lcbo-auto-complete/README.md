@@ -3,7 +3,8 @@
 Points wants to build a reusable auto-complete search widget for all of its
 front-end apps and is asking you to lead the development.
 
-The widget should return search results as the user is typing.
+The widget should actively query the api endpoint and return search results as the user is typing.
+
 
 ## Instructions
 
