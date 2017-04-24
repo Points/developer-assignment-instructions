@@ -4,6 +4,9 @@ Points wants to build a reusable auto-complete search widget for all of its
 front-end apps and is asking you to lead the development.
 
 The widget should actively query the api endpoint and return search results as the user is typing.
+The user should be able to select an item from the auto-complete list. 
+
+Once selected the page should render the full details of the product.
 
 
 ## Instructions
@@ -26,7 +29,6 @@ Please **do not submit pull requests** to this repository.
     [es6](http://caniuse.com/#search=es6) and
     [fetch](https://developer.mozilla.org/en/docs/Web/API/Fetch_API)
 * Do not use 3rd party libraries or frameworks
-* Keyboard navigation is not required
 * Tests are not required
 
 ## Getting started
