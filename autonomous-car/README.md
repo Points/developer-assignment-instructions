@@ -34,8 +34,9 @@ Please **do not submit pull requests** to this repository.
 
 ## Requirements
 
-* Target [NodeJS](https://nodejs.org/en/) >= 6.10.2
+* Implement your solution in JavaScript, without transpilation or build steps
 * Do not use 3rd party libraries or frameworks
+* Target [NodeJS](https://nodejs.org/en/) >= 6.10.2
 * Tests are required
 
 ## Getting started
