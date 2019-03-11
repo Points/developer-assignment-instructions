@@ -1,7 +1,7 @@
-# Developer Assignments
+# LCR Developer Assignments
 
-A repository of developer assignments that are intended to demonstrate the
-technical ability of candidates for the Points Engineering Team.
+A repository of assignments that are intended to demonstrate the
+technical ability of candidates for the Points "LCR" Engineering Team.
 
 ## Repository structure
 
