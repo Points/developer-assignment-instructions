@@ -8,12 +8,14 @@ successfully navigated the track.
 
 Track and travel log data are encoded as JSON. The "track" array contains
 entries for any position of the track where there is an obstacle in any of the
-3 lanes (`"a"`, `"b"` or `"c"`). The "travelLog" array contains entries for any position of
-the track where the car has changed lanes, either to the `"left"` or `"right"`.
+3 lanes (`"a"`, `"b"` or `"c"`). The "travelLog" array contains entries for any 
+position of the track where the car has changed lanes, either to the `"left"` 
+or `"right"`.
 
-The autonomous car starts at position `0` on lane`"b"`, and can shift only one
-lane per position. The simulation should end when the car hits an obstacle,
-goes out-of-bounds, or when all "track" and "travelLog" entries have been processed.
+The autonomous car starts at position `0` on lane`"b"`, drives itself to the end
+of the track and can shift only one lane per position. The simulation should 
+end when the car hits an obstacle, goes out-of-bounds, or when all "track" and 
+"travelLog" entries have been processed.
 
 When the car navigates successfully, such as in the 
 [success.json](./input/success.json) input data, then the simulator should
@@ -38,6 +40,12 @@ Please **do not submit pull requests** to this repository.
 * Do not use 3rd party libraries or frameworks
 * Target [NodeJS](https://nodejs.org/en/) >= 6.10.2
 * Tests are required
+
+## Hints
+
+* Consider using unit and integrations tests where appropriate.
+* Comments are welcome, but no novels.
+* What happens if the input is invalid?
 
 ## Getting started
 
