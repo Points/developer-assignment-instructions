@@ -10,7 +10,7 @@ Each top-level directory in this repository contains one assignment.
 ### Front-end developer assignments
 
 * [autonomous-car](./autonomous-car)
-* [lcbo-auto-complete](./lcbo-auto-complete)
+* [omdb-auto-complete](./omdb-auto-complete)
 
 ## Instructions
 
