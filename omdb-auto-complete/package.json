@@ -6,7 +6,7 @@
   "main": "omdb-auto-complete.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:Points/developer-assignments.git"
+    "url": "git+https://github.com:Points/lcr-developer-assignmentsgit"
   },
-  "homepage": "https://github.com/Points/developer-assignments/omdb-auto-complete#README.md"
+  "homepage": "https://github.com/Points/lcr-developer-assignments/omdb-auto-complete#README.md"
 }
