@@ -13,7 +13,7 @@ For Python, please implement a command line interface instead of the web interfa
 
 ## Notes
 
-* Use [Canadian federal income tax rates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html#federal) for 2019.
+* Use [Canadian federal income tax rates](https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html#federal).
 * The web application should include two screens:
   * The first screen should display a form, which includes an input field and a submit button.
     * The input field should accept the user's gross salary.
